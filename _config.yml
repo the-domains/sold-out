@@ -1,0 +1,28 @@
+name: Sold-out
+favicon: null
+layout_spectrum: 0.5300819117110223
+typography_spectrum: 0.5083828570786864
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.18450320535339415
+  lightness: 0.5670317562762648
+  saturation: 0.36007974157109857
+  rhythmicContrast: 0.34258589684031904
+purpose: []
